@@ -1,3 +1,10 @@
+> [!WARNING]
+> **We're archiving this repository!**
+> 
+> This repository is used by maps1, and once we have no more teams running there, it will no longer be required.
+> 
+> In the mean time, since no further updates to this repository are required, we're archiving it.
+
 # flux-web
 [![HitCount](http://hits.dwyl.io/flux-web/flux-web.svg)](http://hits.dwyl.io/flux-web/flux-web) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![Go Report Card](https://goreportcard.com/badge/github.com/flux-web/flux-web)](https://goreportcard.com/report/github.com/flux-web/flux-web) [![Build Status](https://travis-ci.com/flux-web/flux-web.svg?branch=master)](https://travis-ci.com/flux-web/flux-web)
 
